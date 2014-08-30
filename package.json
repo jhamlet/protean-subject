@@ -1,6 +1,6 @@
 {
     "name": "protean-subject",
-    "fullname": "",
+    "fullname": "ProteanSubject",
     "description": "An extendable Rx.Subject",
     "version": "0.1.0",
     "keywords": ["rx", "subject"],
