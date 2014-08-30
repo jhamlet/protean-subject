@@ -29,7 +29,7 @@ The falling methods you should use when ready to notify the subject's observers:
 * `notifyError(error)`
 * `notifyCompleted()`
 
-For more information see the [API documentation](%-links.apiDoc%>).
+For more information see the [API documentation](API.md).
 
 
 Installation
