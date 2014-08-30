@@ -23,7 +23,7 @@ desire are:
 * `completedOnSubscribed(observer)` Called when the subject is in a completed state
   and an observer subscribes
 
-The falling methods you should use when ready to notify the subject's observers:
+The following methods should be used when ready to notify the subject's observers:
 
 * `notifyNext(value)`
 * `notifyError(error)`
